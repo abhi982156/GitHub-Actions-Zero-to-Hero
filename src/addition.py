@@ -1,5 +1,6 @@
 # app.py
 # This is a test commit done by Abhijeet Pednekar on 27th December 2024
+# This a simple Python program
 def add(a, b):
     return a + b
 
